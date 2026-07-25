@@ -1,3 +1,7 @@
+# English Overview
+
+This repository contains the source code and documentation for Amirgh23's **persian-gpt2-qa** project. Follow the English sections and commands below for setup and usage.
+
 # Persian GPT-2 Question Answering | پرسش‌وپاسخ فارسی با GPT‑2
 
 [English](#english) | [فارسی](#فارسی)
